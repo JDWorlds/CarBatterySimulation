@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OlBpKZl8HhnpHHAwG6pgFK9DRXctEqTKkYSVjIjWhtU=",
+  "Source": "BatterySimApi",
+  "BasePath": "_content/BatterySimApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

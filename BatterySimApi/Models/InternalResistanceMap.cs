@@ -8,7 +8,7 @@ namespace BatterySimApi.Models
 {
     public class InternalResistanceMap
     {
-        private double[] socLevels;
+        private double[] socLevels;        
         private double[] tempLevels;
         private double[,] resistanceTable;
 

@@ -1,0 +1,4 @@
+Representative Cycle Index,Top1 Feature,Top1 SHAP Value,Top2 Feature,Top2 SHAP Value
+117,Avg Current,0.21795066,Max Current,-0.064438716
+50,Max Current,-0.12970285,Avg Current,-0.091814674
+170,Avg Current,0.04506878,Max Current,-0.019232117
